@@ -1,0 +1,37 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  originator: Bob
+  content: hello world!
+  recipient: Alice
+  status: 1
+
+two:
+  originator: Jack
+  content: went up the hill
+  recipient: Jill
+  status: 1
+
+three:
+  originator: Bob
+  content: me again
+  recipient: Alice
+  status: 2
+
+four:
+  originator: Bob
+  content: it's hammer time!
+  recipient: Jill
+  status: 1
+
+five:
+  originator: Timothy
+  content: meeting today
+  recipient: Alice
+  status: 3
+
+six:
+  originator: Jack
+  content: accounts for last year
+  recipient: Mary
+  status: 2

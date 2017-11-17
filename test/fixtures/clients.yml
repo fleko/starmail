@@ -1,0 +1,6 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+starhub:
+  name: Starhub
+  domain: www.star-apps.com
+  password_digest: 123secret
